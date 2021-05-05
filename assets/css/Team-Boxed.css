@@ -14,7 +14,7 @@
   color: inherit;
 }
 
-@media (max-width:767px) {
+@media (max-width: 767px) {
   .team-boxed h2 {
     margin-bottom: 25px;
     padding-top: 25px;
@@ -87,4 +87,3 @@
 .team-boxed .social a:hover {
   opacity: 1;
 }
-
